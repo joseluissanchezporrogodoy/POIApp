@@ -1,0 +1,6 @@
+framework module Pods_POIAppTests {
+  umbrella header "Pods-POIAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
